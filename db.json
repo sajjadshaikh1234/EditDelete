@@ -1,0 +1,28 @@
+{
+  "student": [
+    {
+      "id": 14,
+      "stuname": "Zaim",
+      "email": "Zaim@gmail.com",
+      "occupation": "BussinesMan"
+    },
+    {
+      "id": 15,
+      "stuname": "Muntazim",
+      "email": "Muntazim@gmail.com",
+      "occupation": "Fabrication Expert"
+    },
+    {
+      "id": 16,
+      "stuname": "Sajjad",
+      "email": "sajjad@gmail.com",
+      "occupation": "Devalopers In React"
+    },
+    {
+      "id": 18,
+      "stuname": "Rehan",
+      "email": "Rehan@gmail.com",
+      "occupation": "BussinesMan"
+    }
+  ]
+}
